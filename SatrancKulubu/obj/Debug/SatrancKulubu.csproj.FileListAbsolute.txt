@@ -1,0 +1,11 @@
+C:\C#\Satranç\SatrancKulubu\SatrancKulubu\obj\Debug\SatrancKulubu.csproj.AssemblyReference.cache
+C:\C#\Satranç\SatrancKulubu\SatrancKulubu\obj\Debug\SatrancKulubu.Form1.resources
+C:\C#\Satranç\SatrancKulubu\SatrancKulubu\obj\Debug\SatrancKulubu.Properties.Resources.resources
+C:\C#\Satranç\SatrancKulubu\SatrancKulubu\obj\Debug\SatrancKulubu.csproj.GenerateResource.cache
+C:\C#\Satranç\SatrancKulubu\SatrancKulubu\obj\Debug\SatrancKulubu.csproj.CoreCompileInputs.cache
+C:\C#\Satranç\SatrancKulubu\SatrancKulubu\bin\Debug\SatrancKulubu.exe.config
+C:\C#\Satranç\SatrancKulubu\SatrancKulubu\bin\Debug\SatrancKulubu.exe
+C:\C#\Satranç\SatrancKulubu\SatrancKulubu\bin\Debug\SatrancKulubu.pdb
+C:\C#\Satranç\SatrancKulubu\SatrancKulubu\obj\Debug\SatrancKulubu.exe
+C:\C#\Satranç\SatrancKulubu\SatrancKulubu\obj\Debug\SatrancKulubu.pdb
+C:\C#\Satranç\SatrancKulubu\SatrancKulubu\obj\Debug\SatrancKulubu.Form2.resources
